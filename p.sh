@@ -1,0 +1,1 @@
+cp r/bin/Rele*/n*/l*/p*/* . -r
